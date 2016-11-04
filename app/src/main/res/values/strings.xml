@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Testing</string>
+    <string name="insertedName">Insira aqui seu nome</string>
+    <string name="nameTextView">Nome</string>
+    <string name="textoBotaoTelaPrincipal">Clique aqui</string>
+    <string name="textoBotaoToast">Criar Toast</string>
+    <string name="botaoAlert">Criar Alert</string>
+    <string name="botaoSnack">Criar Snackbar</string>
+</resources>
